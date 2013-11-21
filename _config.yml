@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://http://arresteddevops.com/
+title: Arrested DevOps
+subtitle: DevOps Podcast for fun but no profit
+author: Matt Stratton and maybe someone else?
 simple_search: http://google.com/search
 description:
 
