@@ -5,9 +5,9 @@
 url: http://arresteddevops.com/
 title: Arrested DevOps
 subtitle: DevOps Podcast for fun but no profit
-author: Matt Stratton and maybe someone else?
+author: Arrested DevOps
 simple_search: http://google.com/search
-description:
+description: Podcast focusing on DevOps
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -69,7 +69,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: @arresteddevops
 twitter_tweet_button: true
 
 # Google +1
@@ -90,8 +90,8 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: arresteddevops
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id:
