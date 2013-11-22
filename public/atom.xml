@@ -4,7 +4,7 @@
   <title><![CDATA[Arrested DevOps]]></title>
   <link href="http://arresteddevops.com//atom.xml" rel="self"/>
   <link href="http://arresteddevops.com//"/>
-  <updated>2013-11-21T21:17:51-06:00</updated>
+  <updated>2013-11-21T21:56:25-06:00</updated>
   <id>http://arresteddevops.com//</id>
   <author>
     <name><![CDATA[Arrested DevOps]]></name>
@@ -18,7 +18,7 @@
     <link href="http://arresteddevops.com//blog/2013/11/21/it-has-begun-dot-dot-dot/"/>
     <updated>2013-11-21T19:27:00-06:00</updated>
     <id>http://arresteddevops.com//blog/2013/11/21/it-has-begun-dot-dot-dot</id>
-    <content type="html"><![CDATA[<p>I think this is where the content goes</p>
+    <content type="html"><![CDATA[<p>The world definitely needs another DevOps podcast. We&rsquo;re still working out what exactly we&rsquo;ll be covering. Right now, the main reason this site is up is that <a href="https://twitter.com/mattstratton">Matt</a> is trying to play around with <a href="http://www.octopress.org">Octopress</a> and get some stuff working all fancy-like.</p>
 ]]></content>
   </entry>
   
