@@ -94,7 +94,7 @@ disqus_short_name: 'arresteddevops'
 disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: 'UA-45939822-1'
 
 # Facebook Like
 facebook_like: false
