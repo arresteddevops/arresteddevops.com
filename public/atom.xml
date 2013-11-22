@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-09-23T12:05:03-05:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Arrested DevOps]]></title>
+  <link href="http://arresteddevops.com//atom.xml" rel="self"/>
+  <link href="http://arresteddevops.com//"/>
+  <updated>2013-11-21T19:45:07-06:00</updated>
+  <id>http://arresteddevops.com//</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Matt Stratton and maybe someone else?]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[It has begun...]]></title>
+    <link href="http://arresteddevops.com//blog/2013/11/21/it-has-begun-dot-dot-dot/"/>
+    <updated>2013-11-21T19:27:00-06:00</updated>
+    <id>http://arresteddevops.com//blog/2013/11/21/it-has-begun-dot-dot-dot</id>
+    <content type="html"><![CDATA[<p>I think this is where the content goes</p>
+]]></content>
+  </entry>
   
 </feed>
