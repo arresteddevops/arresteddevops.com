@@ -10,3 +10,6 @@ source/_stash
 source/stylesheets/screen.css
 vendor
 node_modules
+.idea/
+public/Thumbs.db
+source/Thumbs.db
