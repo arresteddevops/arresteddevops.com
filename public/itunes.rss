@@ -6,8 +6,8 @@
     <language>en-us</language>
     <copyright><![CDATA[Arrested DevOps]]></copyright>
     <itunes:author><![CDATA[Arrested DevOps]]></itunes:author>
-    <itunes:subtitle><![CDATA[DevOps Podcast for fun but no profit]]></itunes:subtitle>
-    <description><![CDATA[Podcast focusing on DevOps]]></description>
+    <itunes:subtitle><![CDATA[The podcast that probably won't destroy your career with bad advice]]></itunes:subtitle>
+    <description><![CDATA[Podcast for DevOps topics, including Configuration Management, cloud computing, Continuous Delivery, and more.]]></description>
     <itunes:explicit>no</itunes:explicit>
  
     <itunes:owner>

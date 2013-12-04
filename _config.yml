@@ -4,10 +4,10 @@
 
 url: http://arresteddevops.com/
 title: Arrested DevOps
-subtitle: DevOps Podcast for fun but no profit
+subtitle: The podcast that probably won't destroy your career with bad advice
 author: Arrested DevOps
 simple_search: http://google.com/search
-description: Podcast focusing on DevOps
+description: Podcast for DevOps topics, including Configuration Management, cloud computing, Continuous Delivery, and more.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -51,9 +51,9 @@ titlecase: true       # Converts page and post titles to titlecase
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
 
-default_asides:     [custom/asides/social.html,asides/recent_posts.html, custom/asides/category_list.html, asides/delicious.html, asides/pinboard.html,custom/asides/twitter.html]
-blog_index_asides:  [custom/asides/social.html,custom/asides/about.html, asides/recent_posts.html, custom/asides/category_list.html, asides/delicious.html, asides/pinboard.html,custom/asides/twitter.html]
-post_asides:        [custom/asides/social.html,custom/asides/about.html, asides/recent_posts.html, custom/asides/category_list.html, asides/delicious.html, asides/pinboard.html,custom/asides/twitter.html]
+default_asides:     [custom/asides/social.html,asides/recent_posts.html, custom/asides/links.html, custom/asides/category_list.html, custom/asides/twitter.html]
+blog_index_asides:  [custom/asides/social.html,custom/asides/about.html, asides/recent_posts.html, custom/asides/links.html, custom/asides/category_list.html, custom/asides/twitter.html]
+post_asides:        [custom/asides/social.html,custom/asides/about.html, asides/recent_posts.html, custom/asides/links.html, custom/asides/category_list.html, custom/asides/twitter.html]
 # page_asides:
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
@@ -89,7 +89,7 @@ twitter_user: 'arresteddevops'
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
@@ -113,4 +113,4 @@ disqus_show_comment_count: true
 google_analytics_tracking_id: 'UA-45939822-1'
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
