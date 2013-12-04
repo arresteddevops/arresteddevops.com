@@ -18,9 +18,9 @@ layout: nil
       <itunes:email>matt.stratton@gmail.com</itunes:email>
     </itunes:owner>
  
-    <itunes:image href="http://s3.amazonaws.com/phptownhall/logo.png" />
+    <itunes:image href="http://podcasts.arresteddevops.com/ad-podcast-logo.png" />
     <itunes:category text="Technology">
-      <itunes:category text="Tech News"/>
+      <itunes:category text="Software How-To"/>
     </itunes:category>
  
     {% for post in site.categories.podcasts limit: 20 %}
