@@ -112,6 +112,8 @@ task :new_post, :title do |t, args|
     post.puts "published: false"
     post.puts "comments: true"
     post.puts "categories: "
+    post.puts "author: "
+    post.puts "author_site: "
     post.puts "---"
   end
   system "subl \"#{filename}\""
