@@ -13,3 +13,6 @@ Trevor also does things. Photo coming.
 
 ## Colophon
 This site is hosted on Heroku using Octopress. We record our podcasts using Google Hangouts and then do something with the audio. Matt uses Sublime Text to code and create the posts. Trevor uses something for images but we don't know what that is.
+
+We use the following Octopress plugins:
+* [Octopress responsive video embed](https://github.com/optikfluffel/octopress-responsive-video-embed)
