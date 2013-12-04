@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/mattstratton/arresteddevops.com.png?branch=master)](https://travis-ci.org/mattstratton/arresteddevops.com)
+[![Build Status](https://travis-ci.org/arresteddevops/arresteddevops.com.png?branch=master)](https://travis-ci.org/arresteddevops/arresteddevops.com)
 
 ## Creating a new podcast post
 
