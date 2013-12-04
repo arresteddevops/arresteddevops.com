@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title><![CDATA[Arrested DevOps]]></title>
+    <link>http://arresteddevops.com/</link>
+    <language>en-us</language>
+    <copyright><![CDATA[Arrested DevOps]]></copyright>
+    <itunes:author><![CDATA[Arrested DevOps]]></itunes:author>
+    <itunes:subtitle><![CDATA[DevOps Podcast for fun but no profit]]></itunes:subtitle>
+    <description><![CDATA[Podcast focusing on DevOps]]></description>
+    <itunes:explicit>no</itunes:explicit>
+ 
+    <itunes:owner>
+      <itunes:name>Matt Stratton</itunes:name>
+      <itunes:email>matt.stratton@gmamil.com</itunes:email>
+    </itunes:owner>
+ 
+    <itunes:image href="http://s3.amazonaws.com/phptownhall/logo.png" />
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+ 
+    
+ 
+  </channel>
+</rss>
