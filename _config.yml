@@ -66,6 +66,18 @@ post_asides:        [custom/asides/social.html,custom/asides/about.html, asides/
 #   3rd Party Settings    #
 # ----------------------- #
 
+# semantic options
+
+# the site cover, example: /images/teracy_logo.png
+cover: /images/ad-avatar.png
+
+# for facebook insights
+semantic_fb_app_id: 251052875050266
+
+# for facebook insights
+semantic_fb_admins: 500557137
+
+
 # Github repositories
 github_user:
 github_repo_count: 0
@@ -73,7 +85,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user: '@arresteddevops'
+twitter_user: 'arresteddevops'
 twitter_tweet_button: true
 
 # Google +1

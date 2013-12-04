@@ -1,0 +1,15 @@
+  <meta property="og:url" content="{{ canonical }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="{{ title | strip_html }}" />
+  <meta property="og:description" content="{{ description | strip_html | condense_spaces | truncate:150 }}" />
+{% if cover != empty %}
+  <meta property="og:image" content="{{ site.url }}{{ cover }}" />
+{% endif %}
+
+{% if site.semantic_fb_app_id %}
+  <meta property="fb:app_id" content="{{ site.semantic_fb_app_id }}" />
+{% endif %}
+
+{% if site.semantic_fb_admins %}
+  <meta property="fb:admins" content="{{ site.semantic_fb_admins }}" />
+{% endif %}

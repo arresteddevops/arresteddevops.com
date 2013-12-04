@@ -1,0 +1,10 @@
+{% capture creator %}{% if page.author %}@{{page.author}}{% else %}@{{ site.twitter_user }}{% endif %}{% endcapture %}
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@{{ site.twitter_user }}" />
+  <meta name="twitter:creator" content="{{ creator }}" />
+  <meta name="twitter:title" content="{{ title | strip_html }}" />
+  <meta name="twitter:description" content="{{ description | strip_html | condense_spaces | truncate:150 }}" />
+{% if cover != empty %}
+  <meta name="twitter:image:src" content="{{ site.url }}{{ cover }}" />
+{% endif %}
+  <meta name="twitter:domain" content="{{ site.url }}" />

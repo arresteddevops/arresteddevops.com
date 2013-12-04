@@ -4,13 +4,14 @@ single: true
 ---
 
 <div>
-<article class="hentry" role="article">
+<article itemscope itemtype="http://schema.org/Article" class="hentry" role="article">
   {% include article.html %}
   <footer>
     <p class="meta">
       {% include post/author.html %}
       {% include post/date.html %}{% if updated %}{{ updated }}{% else %}{{ time }}{% endif %}
       {% include post/categories.html %}
+      {% include post/tags.html %}
     </p>
     {% unless page.sharing == false %}
       {% include post/sharing.html %}
