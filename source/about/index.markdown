@@ -21,5 +21,7 @@ We like TravisCI to make sure we don't break stuff.
 Font-Awesome is used for our fancy social media buttons.
 
 We use the following Octopress plugins:
-* [Octopress responsive video embed](https://github.com/optikfluffel/octopress-responsive-video-embed)
-* [Liquid Tweet Tag for Jekyll and Octopress](https://github.com/scottwb/jekyll-tweet-tag)
+*[Octopress responsive video embed](https://github.com/optikfluffel/octopress-responsive-video-embed)
+*[Liquid Tweet Tag for Jekyll and Octopress](https://github.com/scottwb/jekyll-tweet-tag
+*[stickers-octopress](https://github.com/polinom/stickers-octopress)
+*[octopress-semantic](https://github.com/hoatle/octopress-semantic)
