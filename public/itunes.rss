@@ -21,6 +21,21 @@
     </itunes:category>
  
     
+    <item>
+      <title><![CDATA[Episode 000 - Is This Thing On?]]></title>
+      <description><![CDATA[<p>This episode is really not worth watching. Trust us on this. It&rsquo;s not even an episode. Consider it our &ldquo;Sprint Zero&rdquo; to prep for the first one, to make sure all our infrastructure is working.</p>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/yyvac2Ml61g "></iframe></div>
+
+]]></description>
+      <link>http://arresteddevops.com//2013/12/04/episode-000-is-this-thing-on/</link>
+      <guid>http://arresteddevops.com//2013/12/04/episode-000-is-this-thing-on/</guid>
+      <pubDate>Wed, 04 Dec 2013 09:04:00 -0600</pubDate>
+      <itunes:author><![CDATA[Arrested DevOps]]></itunes:author>
+      <itunes:summary><![CDATA[Matt and Trevor try out a Google Hangout On Air to see test out all the bells and whistles before having a real, live, honest-to-goodness podcast.]]></itunes:summary>
+      <enclosure url="http://podcasts.arresteddevops.com/arrested-devops-podcast-episode000.mp3" type="audio/mp3" length="2371115" />
+    </item>
+    
  
   </channel>
 </rss>

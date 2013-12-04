@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: podcasts | Arrested DevOps]]></title>
+  <link href="http://arresteddevops.com//blog/categories/podcasts/atom.xml" rel="self"/>
+  <link href="http://arresteddevops.com//"/>
+  <updated>2013-12-04T09:20:04-06:00</updated>
+  <id>http://arresteddevops.com//</id>
+  <author>
+    <name><![CDATA[Arrested DevOps]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 000 - Is This Thing On?]]></title>
+    <link href="http://arresteddevops.com//2013/12/04/episode-000-is-this-thing-on/"/>
+    <updated>2013-12-04T09:04:00-06:00</updated>
+    <id>http://arresteddevops.com//2013/12/04/episode-000-is-this-thing-on</id>
+    <content type="html"><![CDATA[<p>This episode is really not worth watching. Trust us on this. It&rsquo;s not even an episode. Consider it our &ldquo;Sprint Zero&rdquo; to prep for the first one, to make sure all our infrastructure is working.</p>
+
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/yyvac2Ml61g "></iframe></div></p>
+]]></content>
+  </entry>
+  
+</feed>
