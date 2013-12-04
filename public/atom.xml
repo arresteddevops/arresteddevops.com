@@ -4,7 +4,7 @@
   <title><![CDATA[Arrested DevOps]]></title>
   <link href="http://arresteddevops.com//atom.xml" rel="self"/>
   <link href="http://arresteddevops.com//"/>
-  <updated>2013-11-25T18:53:19-06:00</updated>
+  <updated>2013-12-03T21:20:11-06:00</updated>
   <id>http://arresteddevops.com//</id>
   <author>
     <name><![CDATA[Arrested DevOps]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Titles are hard]]></title>
+    <link href="http://arresteddevops.com//blog/2013/12/03/titles-are-hard/"/>
+    <updated>2013-12-03T21:14:00-06:00</updated>
+    <id>http://arresteddevops.com//blog/2013/12/03/titles-are-hard</id>
+    <content type="html"><![CDATA[<p>As of the time of this post, the subhead of Arrested DevOps is &ldquo;DevOps Podcast for fun but no profit&rdquo;. Which is there mostly as a placeholder, as so much of the AD stuff is right now. But that&rsquo;s not really a good subhead. Or a tagline. Or a way to summarize what Arrested DevOps is about.</p>
+
+<p>We&rsquo;ll be (hopefully) recording our first podcast on Thursday. Which is two days from now. We need a tagline by then, just to help people understand what we are about. And as much as I love the name and the riff on Arrested Development, I don&rsquo;t want to use that in the tagline.</p>
+
+<p>Fundamentally, our goal is to be accessible, friendly to people new to the concepts, and very devoid of &ldquo;inside baseball&rdquo;. And also to not make people feel dirty for using Microsoft products. Any ideas for a great tagline? Please either tweet use at <a href="https://www.twitter.com/arresteddevops">@arresteddevops</a> or leave your thoughts in the comments.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[It has begun...]]></title>
