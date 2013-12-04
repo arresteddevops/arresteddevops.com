@@ -12,7 +12,7 @@
  
     <itunes:owner>
       <itunes:name>Matt Stratton</itunes:name>
-      <itunes:email>matt.stratton@gmamil.com</itunes:email>
+      <itunes:email>matt.stratton@gmail.com</itunes:email>
     </itunes:owner>
  
     <itunes:image href="http://s3.amazonaws.com/phptownhall/logo.png" />

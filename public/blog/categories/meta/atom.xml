@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meta | Arrested DevOps]]></title>
   <link href="http://arresteddevops.com//blog/categories/meta/atom.xml" rel="self"/>
   <link href="http://arresteddevops.com//"/>
-  <updated>2013-12-04T09:20:04-06:00</updated>
+  <updated>2013-12-04T10:31:26-06:00</updated>
   <id>http://arresteddevops.com//</id>
   <author>
     <name><![CDATA[Arrested DevOps]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[If this, then that]]></title>
+    <link href="http://arresteddevops.com//2013/12/04/if-this/"/>
+    <updated>2013-12-04T10:23:00-06:00</updated>
+    <id>http://arresteddevops.com//2013/12/04/if-this</id>
+    <content type="html"><![CDATA[<p>First thing I learned? When using the rake task of &ldquo;new_post&rdquo; in Octopress, don&rsquo;t include a comma. It loses it.</p>
+
+<p>I&rsquo;m writing this post to make sure our <a href="https://ifttt.com">if this then that</a> recipe is working. It also seemed like a fun time to try out the <a href="https://github.com/scottwb/jekyll-tweet-tag">Liquid Tweet Tag for Jekyll and Octopress</a> that I just put into the code.</p>
+
+<p><div class='embed tweet'>Tweet could not be processed</div>
+<div class='embed tweet'>Tweet could not be processed</div></p>
+
+<p>Nifty, huh?</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Titles are hard]]></title>

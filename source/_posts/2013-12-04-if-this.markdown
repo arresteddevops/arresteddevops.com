@@ -1,0 +1,18 @@
+---
+layout: post
+title: "If this, then that"
+date: 2013-12-04 10:23
+published: true
+comments: true
+categories: meta
+author: Matt Stratton
+author_site: http://www.mattstratton.com
+---
+First thing I learned? When using the rake task of "new_post" in Octopress, don't include a comma. It loses it.
+
+I'm writing this post to make sure our [if this then that](https://ifttt.com) recipe is working. It also seemed like a fun time to try out the [Liquid Tweet Tag for Jekyll and Octopress](https://github.com/scottwb/jekyll-tweet-tag) that I just put into the code.
+
+{% tweet https://twitter.com/bryanwb/status/407879708001697792 %}
+{% tweet https://twitter.com/bryanwb/status/407880012336218112 %}
+
+Nifty, huh?
