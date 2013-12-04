@@ -64,6 +64,14 @@
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href='http://fonts.googleapis.com/css?family=Share+Tech' rel='stylesheet' type='text/css'>
 
+<script src="/audiojs/audio.min.js"></script>
+
+<script>
+  audiojs.events.ready(function() {
+    var as = audiojs.createAll();
+  });
+</script>
+
   
   <script type="text/javascript">
     var _gaq = _gaq || [];
@@ -102,9 +110,12 @@
 </form>
   
 <ul class="main-navigation">
-  <li><a href="/">Blog</a></li>
-  <li><a href="/archives">Archives</a></li>
-   <li><a href="/about">About Us</a></li>
+  <li><a href="/"><i class="fa fa-home fa-2x"></i></a></li>
+  <li><a href="/archives"><i class="fa fa-calendar fa-2x"></i> Archives</a></li>
+   <li><a href="/about"><i class="fa fa-question fa-2x"></i> About</a></li>
+   <li><a href="/contact"><i class="fa fa-envelope-o fa-2x"></i> Contact</a></li>
+   <li><a href="/blog/categories/podcasts/"><i class="fa fa-microphone fa-2x"></i> Shows</a></li>
+
 </ul>
 
 </nav>
@@ -143,13 +154,13 @@
 
 <h2>Colophon</h2>
 
-<p>This site is hosted on Heroku using Octopress. We record our podcasts using Google Hangouts and then do something with the audio. Matt uses Sublime Text to code and create the posts. Trevor uses something for images but we don&rsquo;t know what that is.</p>
+<p>This site is hosted on Heroku using <a href="http://octopress.org/">Octopress</a>. We record our podcasts using <a href="http://www.google.com/+/learnmore/hangouts/onair.html">Google Hangouts on Air</a> and then do something with the audio. Matt uses <a href="http://www.sublimetext.com/">Sublime Text</a> to code and create the posts. Trevor uses something for images but we don&rsquo;t know what that is.</p>
 
-<p>For converting the YouTubes to mp3&rsquo;s, we use <a href="http://www.flvto.com/">http://www.flvto.com/</a></p>
+<p>For converting the YouTubes to mp3&rsquo;s, we use <a href="http://www.flvto.com/">FLVTO</a></p>
 
-<p>We like TravisCI to make sure we don&rsquo;t break stuff.</p>
+<p>We like <a href="https://travis-ci.org/">TravisCI</a> to make sure we don&rsquo;t break stuff.</p>
 
-<p>Font-Awesome is used for our fancy social media buttons.</p>
+<p><a href="http://fontawesome.io/">Font-Awesome</a> is used for our fancy social media buttons.</p>
 
 <p>We use the following Octopress plugins:</p>
 
@@ -157,6 +168,7 @@
 <li><a href="https://github.com/optikfluffel/octopress-responsive-video-embed">Octopress responsive video embed</a></li>
 <li><a href="https://github.com/scottwb/jekyll-tweet-tag">Liquid Tweet Tag for Jekyll and Octopress</a></li>
 <li><a href="https://github.com/polinom/stickers-octopress">stickers-octopress</a></li>
+<li><a href="https://gist.github.com/tabletick/3654288">MP3 tag for Jekyll</a> (which relies on <a href="http://kolber.github.io/audiojs/">audio.js</a>)</li>
 <li><a href="https://github.com/hoatle/octopress-semantic">octopress-semantic</a></li>
 </ul>
 

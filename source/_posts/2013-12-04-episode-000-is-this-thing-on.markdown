@@ -13,3 +13,7 @@ summary: Matt and Trevor try out a Google Hangout On Air to see test out all the
 This episode is really not worth watching. Trust us on this. It's not even an episode. Consider it our "Sprint Zero" to prep for the first one, to make sure all our infrastructure is working.
 
 {% youtube yyvac2Ml61g %}
+
+Or you can just listen!
+
+{% audio http://podcasts.arresteddevops.com/arrested-devops-podcast-episode000.mp3 %}

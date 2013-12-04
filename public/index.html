@@ -64,6 +64,14 @@
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href='http://fonts.googleapis.com/css?family=Share+Tech' rel='stylesheet' type='text/css'>
 
+<script src="/audiojs/audio.min.js"></script>
+
+<script>
+  audiojs.events.ready(function() {
+    var as = audiojs.createAll();
+  });
+</script>
+
   
   <script type="text/javascript">
     var _gaq = _gaq || [];
@@ -102,9 +110,12 @@
 </form>
   
 <ul class="main-navigation">
-  <li><a href="/">Blog</a></li>
-  <li><a href="/archives">Archives</a></li>
-   <li><a href="/about">About Us</a></li>
+  <li><a href="/"><i class="fa fa-home fa-2x"></i></a></li>
+  <li><a href="/archives"><i class="fa fa-calendar fa-2x"></i> Archives</a></li>
+   <li><a href="/about"><i class="fa fa-question fa-2x"></i> About</a></li>
+   <li><a href="/contact"><i class="fa fa-envelope-o fa-2x"></i> Contact</a></li>
+   <li><a href="/blog/categories/podcasts/"><i class="fa fa-microphone fa-2x"></i> Shows</a></li>
+
 </ul>
 
 </nav>
@@ -199,6 +210,14 @@
 
 <div class="embed-video-container"><iframe src="http://www.youtube.com/embed/yyvac2Ml61g "></iframe></div>
 
+
+<p>Or you can just listen!</p>
+
+<p><p/>
+<center>
+<audio src="http://podcasts.arresteddevops.com/arrested-devops-podcast-episode000.mp3" preload="none" />
+</center>
+<p/></p>
 </div>
   
   

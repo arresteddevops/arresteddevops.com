@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcasts | Arrested DevOps]]></title>
   <link href="http://arresteddevops.com//blog/categories/podcasts/atom.xml" rel="self"/>
   <link href="http://arresteddevops.com//"/>
-  <updated>2013-12-04T13:37:21-06:00</updated>
+  <updated>2013-12-04T14:21:15-06:00</updated>
   <id>http://arresteddevops.com//</id>
   <author>
     <name><![CDATA[Arrested DevOps]]></name>
@@ -21,6 +21,14 @@
     <content type="html"><![CDATA[<p>This episode is really not worth watching. Trust us on this. It&rsquo;s not even an episode. Consider it our &ldquo;Sprint Zero&rdquo; to prep for the first one, to make sure all our infrastructure is working.</p>
 
 <p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/yyvac2Ml61g "></iframe></div></p>
+
+<p>Or you can just listen!</p>
+
+<p><p/>
+<center>
+<audio src="<a" preload="none" />
+</center>
+<p/></p>
 ]]></content>
   </entry>
   
