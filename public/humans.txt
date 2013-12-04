@@ -1,0 +1,32 @@
+    _                  _          _   ___           ___          
+   /_\  _ _ _ _ ___ __| |_ ___ __| | |   \ _____ __/ _ \ _ __ ___
+  / _ \| '_| '_/ -_|_-<  _/ -_) _` | | |) / -_) V / (_) | '_ (_-<
+ /_/ \_\_| |_| \___/__/\__\___\__,_| |___/\___|\_/ \___/| .__/__/
+                                                        |_|      
+
+                            
+/* TEAM */
+      
+Amateur Rubyist and Podcast Host: Matt Stratton
+Twitter: @mattstratton
+From: Chicago, IL, USA
+
+Placeholder Title Guy and Podcast Host: Trevor Hess
+Twitter: @trevorghess
+From: Chicago, IL, USA
+
+/* THANKS */
+
+To all our favorite DevOps podcasters, especailly
+The Ship Show
+DevOps Cafe
+Food Fight
+
+/* SITE */
+
+Standards: HTML5, CSS3
+Software: Jekyll, Octopress
+IDE: Sublime Text	
+
+There's always code in the banana stand.	
+ 
