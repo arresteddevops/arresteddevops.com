@@ -4,7 +4,7 @@
   <title><![CDATA[Category: mattstratton | Arrested DevOps]]></title>
   <link href="http://arresteddevops.com//blog/categories/mattstratton/atom.xml" rel="self"/>
   <link href="http://arresteddevops.com//"/>
-  <updated>2013-12-05T01:07:58-06:00</updated>
+  <updated>2013-12-05T17:58:15-06:00</updated>
   <id>http://arresteddevops.com//</id>
   <author>
     <name><![CDATA[Arrested DevOps]]></name>
@@ -18,13 +18,9 @@
     <link href="http://arresteddevops.com//2013/12/05/episode-001-what-is-devops/"/>
     <updated>2013-12-05T00:26:00-06:00</updated>
     <id>http://arresteddevops.com//2013/12/05/episode-001-what-is-devops</id>
-    <content type="html"><![CDATA[<h2>Join Us!</h2>
+    <content type="html"><![CDATA[<h2>Watch Now</h2>
 
-<p>Join us on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Arrested+DevOps+%23001+-+What+Is+DevOps%3F&amp;iso=20131205T18&amp;p1=64&amp;ah=1">Friday, December 6, 2013 at 00:00:00 UTC</a> for the very first &ldquo;real&rdquo; episode of Arrested DevOps!</p>
-
-<p>Feel free to check out the <a href="https://github.com/arresteddevops/podcast/blob/master/scripts/episode-001-what-is-devops.md">rough outline of the show</a> and go ahead and send pull requests if you have some additional ideas. You can also tweet your ideas or questions to us at <a href="https://twitter.com/ArrestedDevOps">@ArrestedDevOps</a> before the show starts or even while it&rsquo;s going on.</p>
-
-<h2>Watch Now</h2>
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/88iUXN5cCas "></iframe></div></p>
 
 <p>The show will begin on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Arrested+DevOps+%23001+-+What+Is+DevOps%3F&amp;iso=20131205T18&amp;p1=64&amp;ah=1">Friday, December 6, 2013 at 00:00:00 UTC</a>.</p>
 

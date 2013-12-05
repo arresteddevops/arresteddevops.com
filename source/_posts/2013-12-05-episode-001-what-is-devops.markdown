@@ -10,15 +10,11 @@ categories:
 author: Arrested DevOps
 author_site: 
 ---
-Join Us!
------
-
-Join us on [Friday, December 6, 2013 at 00:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Arrested+DevOps+%23001+-+What+Is+DevOps%3F&iso=20131205T18&p1=64&ah=1) for the very first "real" episode of Arrested DevOps!
-
-Feel free to check out the [rough outline of the show](https://github.com/arresteddevops/podcast/blob/master/scripts/episode-001-what-is-devops.md) and go ahead and send pull requests if you have some additional ideas. You can also tweet your ideas or questions to us at [@ArrestedDevOps](https://twitter.com/ArrestedDevOps) before the show starts or even while it's going on.
 
 Watch Now
 -----
+
+{% youtube 88iUXN5cCas %}
 
 The show will begin on [Friday, December 6, 2013 at 00:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Arrested+DevOps+%23001+-+What+Is+DevOps%3F&iso=20131205T18&p1=64&ah=1).
 
