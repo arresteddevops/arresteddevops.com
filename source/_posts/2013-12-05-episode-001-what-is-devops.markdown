@@ -22,9 +22,9 @@ Watch Now
 
 The show will begin on [Friday, December 6, 2013 at 00:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Arrested+DevOps+%23001+-+What+Is+DevOps%3F&iso=20131205T18&p1=64&ah=1).
 
-* [Panel](http://www.arresteddevops.com/2013/12/05/what-is-devops/#panel)
-* [Outline](http://www.arresteddevops.com/2013/12/05/what-is-devops/#outline)
-* [Picks](http://www.arresteddevops.com/2013/12/05/what-is-devops/#picks)
+* [Panel](http://www.arresteddevops.com/2013/12/05/episode-001-what-is-devops/#panel)
+* [Outline](http://www.arresteddevops.com/2013/12/05/episode-001-what-is-devops/#outline)
+* [Picks](http://www.arresteddevops.com/2013/12/05/episode-001-what-is-devops/#picks)
 * Download
   * Audio - Coming soon!
   * Video - Begins [Thursday, December 5, 2013 19:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+69+-+Best+Practices&iso=20131205T14&p1=419&ah=1)
