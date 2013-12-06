@@ -25,9 +25,6 @@ Watch Now
 * [Panel](http://www.arresteddevops.com/2013/12/05/episode-001-what-is-devops/#panel)
 * [Outline](http://www.arresteddevops.com/2013/12/05/episode-001-what-is-devops/#outline)
 * [Check-outs](http://www.arresteddevops.com/2013/12/05/episode-001-what-is-devops/#checkouts)
-* Download
-  * [Audio](http://podcasts.arresteddevops.com/arrested-devops-podcast-episode001.mp3)
-  * [Video](https://www.youtube.com/watch?v=88iUXN5cCas) 
 
 Panel<a name="panel"></a>
 -----
@@ -54,11 +51,3 @@ Check-Outs<a name="checkouts"></a>
 Follow us on Twitter at [@ArrestedDevOps](http://twitter.com/arresteddevops).
 
 Please feel free to submit show ideas to our [github repo](https://github.com/arresteddevops/podcast)
-
-
-
-Download
---------
-
-* [Audio](http://podcasts.arresteddevops.com/arrested-devops-podcast-episode001.mp3)
-* [Video](https://www.youtube.com/watch?v=88iUXN5cCas) 
