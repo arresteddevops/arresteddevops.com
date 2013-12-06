@@ -7,8 +7,11 @@ comments: false
 categories: 
 - mattstratton
 - trevorghess
+- podcasts
+length: 53646557
 author: Arrested DevOps
 author_site: 
+summary: Matt and Trevor talk about the reason for Arrested DevOps, the format of the show (sort of), and then "what does DevOps mean?" Then somehow the topic devolves into open floorspaces and Matt puts his foot in his mouth a few times.
 ---
 
 Watch Now
@@ -16,14 +19,15 @@ Watch Now
 
 {% youtube 88iUXN5cCas %}
 
-The show will begin on [Friday, December 6, 2013 at 00:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Arrested+DevOps+%23001+-+What+Is+DevOps%3F&iso=20131205T18&p1=64&ah=1).
+{% audio http://podcasts.arresteddevops.com/arrested-devops-podcast-episode001.mp3 %}
+
 
 * [Panel](http://www.arresteddevops.com/2013/12/05/episode-001-what-is-devops/#panel)
 * [Outline](http://www.arresteddevops.com/2013/12/05/episode-001-what-is-devops/#outline)
 * [Check-outs](http://www.arresteddevops.com/2013/12/05/episode-001-what-is-devops/#checkouts)
 * Download
-  * Audio - Coming soon!
-  * Video - Begins [Thursday, December 5, 2013 19:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+69+-+Best+Practices&iso=20131205T14&p1=419&ah=1)
+  * [Audio](http://podcasts.arresteddevops.com/arrested-devops-podcast-episode001.mp3)
+  * [Video](https://www.youtube.com/watch?v=88iUXN5cCas) 
 
 Panel<a name="panel"></a>
 -----
@@ -33,19 +37,19 @@ Panel<a name="panel"></a>
 Outline<a name="outline"></a>
 -------
 
-See the [rough outline](https://github.com/arresteddevops/podcast/blob/master/scripts/episode-001-what-is-devops.md). 
+Matt and Trevor talk about the reason for Arrested DevOps, the format of the show (sort of), and then "what does DevOps mean?" Then somehow the topic devolves into open floorspaces and Matt puts his foot in his mouth a few times.
 
 Check-Outs<a name="checkouts"></a>
 -----
 
 #### Matt  
++ Ender's Game
++ [High West Whiskey Campfire](http://www.highwest.com/spirits/new-campfire/)
 
 #### Trevor  
++ [Saints Row](http://www.saintsrow.com/)
 
 
-
-CLOSE
------
 
 Follow us on Twitter at [@ArrestedDevOps](http://twitter.com/arresteddevops).
 
@@ -56,5 +60,5 @@ Please feel free to submit show ideas to our [github repo](https://github.com/ar
 Download
 --------
 
-* Audio - Coming soon!
-* Video - Begins [Friday, December 6, 2013 at 00:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Arrested+DevOps+%23001+-+What+Is+DevOps%3F&iso=20131205T18&p1=64&ah=1)
+* [Audio](http://podcasts.arresteddevops.com/arrested-devops-podcast-episode001.mp3)
+* [Video](https://www.youtube.com/watch?v=88iUXN5cCas) 

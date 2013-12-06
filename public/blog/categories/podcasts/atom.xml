@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcasts | Arrested DevOps]]></title>
   <link href="http://arresteddevops.com//blog/categories/podcasts/atom.xml" rel="self"/>
   <link href="http://arresteddevops.com//"/>
-  <updated>2013-12-05T17:58:15-06:00</updated>
+  <updated>2013-12-05T19:22:30-06:00</updated>
   <id>http://arresteddevops.com//</id>
   <author>
     <name><![CDATA[Arrested DevOps]]></name>
@@ -12,6 +12,78 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 001 - What Is DevOps?]]></title>
+    <link href="http://arresteddevops.com//2013/12/05/episode-001-what-is-devops/"/>
+    <updated>2013-12-05T00:26:00-06:00</updated>
+    <id>http://arresteddevops.com//2013/12/05/episode-001-what-is-devops</id>
+    <content type="html"><![CDATA[<h2>Watch Now</h2>
+
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/88iUXN5cCas "></iframe></div></p>
+
+<p><p/>
+<center>
+<audio src="<a" preload="none" />
+</center>
+<p/></p>
+
+<ul>
+<li><a href="http://www.arresteddevops.com/2013/12/05/episode-001-what-is-devops/#panel">Panel</a></li>
+<li><a href="http://www.arresteddevops.com/2013/12/05/episode-001-what-is-devops/#outline">Outline</a></li>
+<li><a href="http://www.arresteddevops.com/2013/12/05/episode-001-what-is-devops/#checkouts">Check-outs</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://podcasts.arresteddevops.com/arrested-devops-podcast-episode001.mp3">Audio</a></li>
+<li><a href="https://www.youtube.com/watch?v=88iUXN5cCas">Video</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Matt Stratton <a href="http://github.com/mattstratton">github</a>, <a href="https://twitter.com/mattstratton">twitter</a>, irc: MattStratton, <a href="http://www.mattstratton.com/">blog</a></li>
+<li>Trevor Hess <a href="https://github.com/trevorghess">github</a>, <a href="http://twitter.com/trevorghess">twitter</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<p>Matt and Trevor talk about the reason for Arrested DevOps, the format of the show (sort of), and then &ldquo;what does DevOps mean?&rdquo; Then somehow the topic devolves into open floorspaces and Matt puts his foot in his mouth a few times.</p>
+
+<h2>Check-Outs<a name="checkouts"></a></h2>
+
+<h4>Matt</h4>
+
+<ul>
+<li>Ender&rsquo;s Game</li>
+<li><a href="http://www.highwest.com/spirits/new-campfire/">High West Whiskey Campfire</a></li>
+</ul>
+
+
+<h4>Trevor</h4>
+
+<ul>
+<li><a href="http://www.saintsrow.com/">Saints Row</a></li>
+</ul>
+
+
+<p>Follow us on Twitter at <a href="http://twitter.com/arresteddevops">@ArrestedDevOps</a>.</p>
+
+<p>Please feel free to submit show ideas to our <a href="https://github.com/arresteddevops/podcast">github repo</a></p>
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://podcasts.arresteddevops.com/arrested-devops-podcast-episode001.mp3">Audio</a></li>
+<li><a href="https://www.youtube.com/watch?v=88iUXN5cCas">Video</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 000 - Is This Thing On?]]></title>
