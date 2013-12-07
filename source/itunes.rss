@@ -17,6 +17,8 @@ layout: nil
       <itunes:name>Matt Stratton</itunes:name>
       <itunes:email>matt.stratton@gmail.com</itunes:email>
     </itunes:owner>
+
+    <itunes:new-feed-url>http://feeds.podtrac.com/9R4aYQzOnl4$</itunes:new-feed-url>
  
     <itunes:image href="http://podcasts.arresteddevops.com/ad-podcast-logo.png" />
     <itunes:category text="Technology">
