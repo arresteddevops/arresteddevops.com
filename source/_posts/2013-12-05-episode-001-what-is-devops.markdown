@@ -9,7 +9,7 @@ categories:
 - trevorghess
 - podcasts
 filename: arrested-devops-podcast-episode001
-length: 53646557
+length: 71810475
 author: Arrested DevOps
 author_site: 
 summary: Matt and Trevor talk about the reason for Arrested DevOps, the format of the show (sort of), and then "what does DevOps mean?" Then somehow the topic devolves into open floorspaces and Matt puts his foot in his mouth a few times.
