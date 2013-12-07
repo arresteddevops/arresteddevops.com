@@ -24,6 +24,9 @@ layout: nil
     <itunes:category text="Technology">
       <itunes:category text="Software How-To"/>
     </itunes:category>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News" />
+    </itunes:category>
  
     {% for post in site.categories.podcasts limit: 20 %}
     <item>
