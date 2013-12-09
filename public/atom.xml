@@ -4,7 +4,7 @@
   <title><![CDATA[Arrested DevOps]]></title>
   <link href="http://arresteddevops.com//atom.xml" rel="self"/>
   <link href="http://arresteddevops.com//"/>
-  <updated>2013-12-06T23:26:57-06:00</updated>
+  <updated>2013-12-09T15:25:43-06:00</updated>
   <id>http://arresteddevops.com//</id>
   <author>
     <name><![CDATA[Arrested DevOps]]></name>
@@ -12,6 +12,59 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[OpsCode Renamed Chef]]></title>
+    <link href="http://arresteddevops.com//2013/12/09/opscode-renamed-chef/"/>
+    <updated>2013-12-09T15:19:00-06:00</updated>
+    <id>http://arresteddevops.com//2013/12/09/opscode-renamed-chef</id>
+    <content type="html"><![CDATA[<p>The big news of the day is that OpsCode, <a href="http://pulse2.com/2013/12/09/opscode-chef-32-million-98296/">after raising $32MM in Series D, has changed their name to Chef</a>. Becuase, well, that&rsquo;s what they are. The Chef people.</p>
+
+<p>That&rsquo;s cool and all, but the twitters quickly panicked at how challenging it would be to find ANYTHING Chef-related on the Googles.</p>
+
+<div class='embed tweet'><blockquote class="twitter-tweet"><p><a href="https://twitter.com/resetexistence">@resetexistence</a> <a href="https://twitter.com/opscode">@opscode</a> <a href="https://twitter.com/getchefdotcom">@getchefdotcom</a> Except now googling for ‘chef’ is going to be even more hopeless.</p>&mdash; Miah Johnson (@miah_) <a href="https://twitter.com/miah_/statuses/410143531303723008">December 9, 2013</a></blockquote>
+<script async src="http://arresteddevops.com///platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+
+
+
+<div class='embed tweet'><blockquote class="twitter-tweet"><p><a href="https://twitter.com/miah_">@miah_</a> <a href="https://twitter.com/resetexistence">@resetexistence</a> <a href="https://twitter.com/opscode">@opscode</a> <a href="https://twitter.com/getchefdotcom">@getchefdotcom</a> Can we call it “cheftool” or something (aka “golang”)?</p>&mdash; Matt Stratton (@mattstratton) <a href="https://twitter.com/mattstratton/statuses/410143745213218816">December 9, 2013</a></blockquote>
+<script async src="http://arresteddevops.com///platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+
+
+
+<div class='embed tweet'><blockquote class="twitter-tweet"><p><a href="https://twitter.com/mattstratton">@mattstratton</a> <a href="https://twitter.com/resetexistence">@resetexistence</a> <a href="https://twitter.com/opscode">@opscode</a> <a href="https://twitter.com/getchefdotcom">@getchefdotcom</a> I was always able to find things by adding ‘opscode’ to my searches.</p>&mdash; Miah Johnson (@miah_) <a href="https://twitter.com/miah_/statuses/410143898825396224">December 9, 2013</a></blockquote>
+<script async src="http://arresteddevops.com///platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+
+
+
+<div class='embed tweet'><blockquote class="twitter-tweet"><p><a href="https://twitter.com/miah_">@miah_</a> <a href="https://twitter.com/resetexistence">@resetexistence</a> <a href="https://twitter.com/opscode">@opscode</a> <a href="https://twitter.com/getchefdotcom">@getchefdotcom</a> Or do like Berkshelf. We can call it “Chorf”</p>&mdash; Matt Stratton (@mattstratton) <a href="https://twitter.com/mattstratton/statuses/410144177616601088">December 9, 2013</a></blockquote>
+<script async src="http://arresteddevops.com///platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+
+
+
+<div class='embed tweet'><blockquote class="twitter-tweet"><p><a href="https://twitter.com/mattstratton">@mattstratton</a> <a href="https://twitter.com/miah_">@miah_</a> <a href="https://twitter.com/opscode">@opscode</a> <a href="https://twitter.com/getchefdotcom">@getchefdotcom</a> oh god&#8230; Cherf</p>&mdash; Jamie Winsor (@resetexistence) <a href="https://twitter.com/resetexistence/statuses/410144288891502592">December 9, 2013</a></blockquote>
+<script async src="http://arresteddevops.com///platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+
+
+
+<div class='embed tweet'><blockquote class="twitter-tweet"><p><a href="https://twitter.com/resetexistence">@resetexistence</a> <a href="https://twitter.com/mattstratton">@mattstratton</a> <a href="https://twitter.com/opscode">@opscode</a> <a href="https://twitter.com/getchefdotcom">@getchefdotcom</a> Yes CHERF FTW =)</p>&mdash; Miah Johnson (@miah_) <a href="https://twitter.com/miah_/statuses/410144344658956288">December 9, 2013</a></blockquote>
+<script async src="http://arresteddevops.com///platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+
+
+
+<div class='embed tweet'><blockquote class="twitter-tweet"><p>&quot;<a href="https://twitter.com/mattstratton">@mattstratton</a> <a href="https://twitter.com/miah_">@miah_</a> <a href="https://twitter.com/resetexistence">@resetexistence</a> <a href="https://twitter.com/opscode">@opscode</a> <a href="https://twitter.com/getchefdotcom">@getchefdotcom</a> ermagerd erpscode&#39;s nerr cherf&quot;.strtoupper</p>&mdash; Shaun Mouton (@sdmouton) <a href="https://twitter.com/sdmouton/statuses/410155714163003392">December 9, 2013</a></blockquote>
+<script async src="http://arresteddevops.com///platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+
+<p>Let it be said. The new name for &ldquo;Chef&rdquo; is &ldquo;Cherf&rdquo;. And I helped.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 001 - What Is DevOps?]]></title>
