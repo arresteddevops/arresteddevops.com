@@ -8,7 +8,7 @@ categories: configuration-management
 author: Matt Stratton
 author_site: http://www.mattstratton.com
 ---
-The big news of the day is that OpsCode, [after raising $32MM in Series D, has changed their name to Chef](http://pulse2.com/2013/12/09/opscode-chef-32-million-98296/). Becuase, well, that's what they are. The Chef people.
+The big news of the day is that OpsCode, [after raising $32MM in Series D, has changed their name to Chef](http://pulse2.com/2013/12/09/opscode-chef-32-million-98296/). Because, well, that's what they are. The Chef people.
 
 That's cool and all, but the twitters quickly panicked at how challenging it would be to find ANYTHING Chef-related on the Googles.
 

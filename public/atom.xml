@@ -4,7 +4,7 @@
   <title><![CDATA[Arrested DevOps]]></title>
   <link href="http://arresteddevops.com//atom.xml" rel="self"/>
   <link href="http://arresteddevops.com//"/>
-  <updated>2013-12-09T20:15:18-06:00</updated>
+  <updated>2013-12-09T20:18:33-06:00</updated>
   <id>http://arresteddevops.com//</id>
   <author>
     <name><![CDATA[Arrested DevOps]]></name>
@@ -18,7 +18,7 @@
     <link href="http://arresteddevops.com//2013/12/09/opscode-renamed-chef/"/>
     <updated>2013-12-09T15:19:00-06:00</updated>
     <id>http://arresteddevops.com//2013/12/09/opscode-renamed-chef</id>
-    <content type="html"><![CDATA[<p>The big news of the day is that OpsCode, <a href="http://pulse2.com/2013/12/09/opscode-chef-32-million-98296/">after raising $32MM in Series D, has changed their name to Chef</a>. Becuase, well, that&rsquo;s what they are. The Chef people.</p>
+    <content type="html"><![CDATA[<p>The big news of the day is that OpsCode, <a href="http://pulse2.com/2013/12/09/opscode-chef-32-million-98296/">after raising $32MM in Series D, has changed their name to Chef</a>. Because, well, that&rsquo;s what they are. The Chef people.</p>
 
 <p>That&rsquo;s cool and all, but the twitters quickly panicked at how challenging it would be to find ANYTHING Chef-related on the Googles.</p>
 
