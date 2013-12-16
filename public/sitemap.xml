@@ -25,6 +25,12 @@
         <lastmod>2013-12-09T20:18:25-06:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://arresteddevops.com//2013/12/16/episode-002-does-testing-keeps-you-from-making-a-huge-mistake/
+        </loc>
+        <lastmod>2013-12-16T09:15:56-06:00</lastmod>
+    </url>
+    <url>
         <loc>http://arresteddevops.com//404.html</loc>
         <lastmod>2013-12-05T01:02:42-06:00</lastmod>
     </url>
@@ -34,11 +40,11 @@
     </url>
     <url>
         <loc>http://arresteddevops.com//archives/</loc>
-        <lastmod>2013-12-09T20:18:25-06:00</lastmod>
+        <lastmod>2013-12-16T09:15:56-06:00</lastmod>
     </url>
     <url>
         <loc>http://arresteddevops.com//categories/</loc>
-        <lastmod>2013-12-09T20:18:25-06:00</lastmod>
+        <lastmod>2013-12-16T09:15:56-06:00</lastmod>
     </url>
     <url>
         <loc>http://arresteddevops.com//contact/</loc>
@@ -46,7 +52,7 @@
     </url>
     <url>
         <loc>http://arresteddevops.com//</loc>
-        <lastmod>2013-12-09T20:18:25-06:00</lastmod>
+        <lastmod>2013-12-16T09:15:56-06:00</lastmod>
     </url>
     <url>
         <loc>http://arresteddevops.com//itunes.rss</loc>

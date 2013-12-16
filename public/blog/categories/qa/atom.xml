@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: qa | Arrested DevOps]]></title>
+  <link href="http://arresteddevops.com//blog/categories/qa/atom.xml" rel="self"/>
+  <link href="http://arresteddevops.com//"/>
+  <updated>2013-12-16T09:16:01-06:00</updated>
+  <id>http://arresteddevops.com//</id>
+  <author>
+    <name><![CDATA[Arrested DevOps]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 002 - Does Testing Keep You From Making A Huge Mistake?]]></title>
+    <link href="http://arresteddevops.com//2013/12/16/episode-002-does-testing-keeps-you-from-making-a-huge-mistake/"/>
+    <updated>2013-12-16T09:09:00-06:00</updated>
+    <id>http://arresteddevops.com//2013/12/16/episode-002-does-testing-keeps-you-from-making-a-huge-mistake</id>
+    <content type="html"><![CDATA[<p><em>Show Date:  <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Arrested+DevOps+Episode+2+-+Does+Testing+Keeps+You+From+Making+A+Huge+Mistake%3F&amp;iso=20131219T19&amp;p1=64&amp;ah=1">Friday, December 20, 2013 at 01:00:00 UTC</a></em></p>
+
+<h2>Confirmed Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Matt Stratton <a href="http://github.com/mattstratton">github</a>, <a href="https://twitter.com/mattstratton">twitter</a>, irc: MattStratton, <a href="http://www.mattstratton.com/">blog</a></li>
+<li>Trevor Hess <a href="https://github.com/trevorghess">github</a>, <a href="http://twitter.com/trevorghess">twitter</a></li>
+<li>Lanette Creamer <a href="http://twitter.com/lanettecream">twitter</a>, <a href="http://blog.testyredhead.com/">blog</a></li>
+</ul>
+
+
+<h2>Invited Panel</h2>
+
+<ul>
+<li>Nate Brengle</li>
+</ul>
+
+
+<p>Want to join us for this episode? <a href="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#111;&#x3a;&#x73;&#x68;&#111;&#119;&#x73;&#x40;&#97;&#114;&#114;&#x65;&#115;&#x74;&#x65;&#x64;&#100;&#101;&#x76;&#x6f;&#112;&#115;&#x2e;&#x63;&#x6f;&#109;">&#115;&#104;&#x6f;&#x77;&#x73;&#x40;&#97;&#114;&#x72;&#101;&#115;&#116;&#x65;&#100;&#100;&#101;&#x76;&#111;&#x70;&#115;&#x2e;&#x63;&#x6f;&#x6d;</a></p>
+
+<h2>Outline/Questions</h2>
+
+<p>Initial thought based on this comment from Lanette:
+&ldquo;I&rsquo;d love to share with dev ops folks &amp; Devs WHY they should care about testing. Basically, it will free them up to better fix a bug once and for good, and it will also mean fewer bugs for them to worry about.&rdquo;</p>
+
+<ul>
+<li>In your opinion, how do you define testing? What&rsquo;s a unit test vs. functional vs. nonfunctional testing?</li>
+<li>So it&rsquo;s Dev and Ops&hellip;where does QA fit? Why not DevQAOps?</li>
+<li>Who should write unit tests? Is this the kind of thing that needs to be strict?</li>
+<li>How do you make sure you&rsquo;ve got the right coverage?</li>
+<li>What skills/talents do testers/QA people need to work in a DevOps culture?</li>
+</ul>
+
+
+<p>Suggestions/questions? Submit a PR on our <a href="https://github.com/arresteddevops/podcast/blob/master/scripts/episode-002-testing-in-the-devops-world.md">script page</a> or tweet us at @ArrestedDevops</p>
+
+<h2>Check-Outs<a name="checkouts"></a></h2>
+
+<h4>Lanette</h4>
+
+<h4>Matt</h4>
+
+<h4>Trevor</h4>
+
+<p>Follow us on Twitter at <a href="http://twitter.com/arresteddevops">@ArrestedDevOps</a>.</p>
+
+<p>Please feel free to submit show ideas to our <a href="https://github.com/arresteddevops/podcast">github repo</a></p>
+
+<h2>Download</h2>
+]]></content>
+  </entry>
+  
+</feed>
