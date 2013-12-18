@@ -6,7 +6,11 @@ footer: true
 ---
 ## Hosts
 ### Matt
-Matt does stuff. Here's his picture. Maybe.
+Matt Stratton is a cloud infrastructure consultant with 10th Magnitude, which means he lays out in a field, looks up in the sky, and says "that one looks like a dinosaur...that one is a race car"...
+
+When he's not doing that, he's helping clients improve their agility and velocity by adapting DevOps principles and practices including Continuous Delivery, Infrastructure as Code, and a bunch of other fancy stuff. He lives in Chicago and has an unhealthy obsession with Doctor Who, Firefly, and Game of Thrones. And whiskey.
+
+Matt also hates writing about himself in the third person.
 
 ### Trevor
 Trevor also does things. Photo coming.

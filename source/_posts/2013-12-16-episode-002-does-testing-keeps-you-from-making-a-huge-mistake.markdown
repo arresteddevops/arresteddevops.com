@@ -23,6 +23,7 @@ Confirmed Panel<a name="panel"></a>
 * Trevor Hess [github](https://github.com/trevorghess), [twitter](http://twitter.com/trevorghess)
 * Lanette Creamer [twitter](http://twitter.com/lanettecream), [blog](http://blog.testyredhead.com/)
 * Nate Brengle [github](https://github.com/fyreswordgames), [web](http://www.fyreswordgames.com/), currently a Game Designer working in partnership with Stanford to create medical games as well as a QA and Business Analyst for Pathfinder Software. His romance with Quality extends far beyond software and games, with ties to the literary and plastic arts, philosophized psychoanalysis, and functional religion.
+* John Sheehan [twitter](https://twitter.com/johnsheehan)
 
 Invited Panel
 -----
@@ -40,6 +41,7 @@ Initial thought based on this comment from Lanette:
 * Who should write unit tests? Is this the kind of thing that needs to be strict?
 * How do you make sure you've got the right coverage?
 * What skills/talents do testers/QA people need to work in a DevOps culture?
+* "SOAP web service testing can be a pain because SoapUI is a pain. Are there better tools out there?" - @mattshelton
 
 Suggestions/questions? Submit a PR on our [script page](https://github.com/arresteddevops/podcast/blob/master/scripts/episode-002-testing-in-the-devops-world.md) or tweet us at @ArrestedDevops
 
@@ -50,11 +52,13 @@ Check-Outs<a name="checkouts"></a>
 
 #### Lanette
 
+#### Nate
+
+#### John
+
 #### Matt  
 
 #### Trevor  
-
-#### Nate
 
 
 
