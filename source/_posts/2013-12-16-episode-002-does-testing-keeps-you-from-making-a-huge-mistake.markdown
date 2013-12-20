@@ -21,7 +21,7 @@ Watch Now!
 Audio - coming soon!
 
 * [Panel](http://www.arresteddevops.com/2013/12/16/episode-002-does-testing-keeps-you-from-making-a-huge-mistake/#panel)
-* [Outline](http://www.arresteddevops.com/2013/12/16/episode-002-does-testing-keeps-you-from-making-a-huge-mistake/#outline)
+* [Show Notes](http://www.arresteddevops.com/2013/12/16/episode-002-does-testing-keeps-you-from-making-a-huge-mistake/#outline)
 * [Check-outs](http://www.arresteddevops.com/2013/12/16/episode-002-does-testing-keeps-you-from-making-a-huge-mistake/#checkouts)
 
 Panel<a name="panel"></a>
@@ -34,7 +34,7 @@ Panel<a name="panel"></a>
 * John Sheehan [twitter](https://twitter.com/johnsheehan)
 
 
-Outline/Questions
+Summary/Show Notes
 -----------------
 Initial thought based on this comment from Lanette: 
 "I'd love to share with dev ops folks & Devs WHY they should care about testing. Basically, it will free them up to better fix a bug once and for good, and it will also mean fewer bugs for them to worry about."
@@ -53,13 +53,28 @@ Check-Outs<a name="checkouts"></a>
 
 #### Lanette
 
+* Butler Wars - Jenkins vs Hudson
+
 #### Nate
+
+* [Jeepform](http://jeepen.org/dict/)
 
 #### John
 
+* [Carcassonne for iOS](http://carcassonneapp.com/)
+* [Briefmetrics](http://www.briefmetrics.com)
+* [HookFeed](http://hookfeed.com/)
+
 #### Matt  
 
+* [Pester](https://github.com/pester/Pester) - BDD framework for PowerShell
+* [XCOM - Enemy Within](http://www.xcom.com/enemyunknown/)
+
 #### Trevor  
+
+* [Clumsy](http://jagt.github.io/clumsy/)
+* [Ticket to Ride](http://www.daysofwonder.com/tickettoride/en/)
+* [Civilization V](http://www.civilization5.com/)
 
 
 
