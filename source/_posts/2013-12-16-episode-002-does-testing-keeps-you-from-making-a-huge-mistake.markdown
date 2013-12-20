@@ -15,6 +15,9 @@ author_site:
 ---
 *Show Date:  [Friday, December 20, 2013 at 01:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Arrested+DevOps+Episode+2+-+Does+Testing+Keeps+You+From+Making+A+Huge+Mistake%3F&iso=20131219T19&p1=64&ah=1)*
 
+Watch Now!
+-----
+{% youtube uVge4fkjF8w %}
 
 Confirmed Panel<a name="panel"></a>
 -----
