@@ -4,7 +4,7 @@
   <title><![CDATA[Category: mattstratton | Arrested DevOps]]></title>
   <link href="http://arresteddevops.com//blog/categories/mattstratton/atom.xml" rel="self"/>
   <link href="http://arresteddevops.com//"/>
-  <updated>2013-12-19T18:31:34-06:00</updated>
+  <updated>2013-12-19T20:32:23-06:00</updated>
   <id>http://arresteddevops.com//</id>
   <author>
     <name><![CDATA[Arrested DevOps]]></name>
@@ -18,13 +18,20 @@
     <link href="http://arresteddevops.com//2013/12/16/episode-002-does-testing-keeps-you-from-making-a-huge-mistake/"/>
     <updated>2013-12-16T09:09:00-06:00</updated>
     <id>http://arresteddevops.com//2013/12/16/episode-002-does-testing-keeps-you-from-making-a-huge-mistake</id>
-    <content type="html"><![CDATA[<p><em>Show Date:  <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Arrested+DevOps+Episode+2+-+Does+Testing+Keeps+You+From+Making+A+Huge+Mistake%3F&amp;iso=20131219T19&amp;p1=64&amp;ah=1">Friday, December 20, 2013 at 01:00:00 UTC</a></em></p>
-
-<h2>Watch Now!</h2>
+    <content type="html"><![CDATA[<h2>Watch Now!</h2>
 
 <p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/uVge4fkjF8w "></iframe></div></p>
 
-<h2>Confirmed Panel<a name="panel"></a></h2>
+<p>Audio &ndash; coming soon!</p>
+
+<ul>
+<li><a href="http://www.arresteddevops.com/2013/12/16/episode-002-does-testing-keeps-you-from-making-a-huge-mistake/#panel">Panel</a></li>
+<li><a href="http://www.arresteddevops.com/2013/12/16/episode-002-does-testing-keeps-you-from-making-a-huge-mistake/#outline">Outline</a></li>
+<li><a href="http://www.arresteddevops.com/2013/12/16/episode-002-does-testing-keeps-you-from-making-a-huge-mistake/#checkouts">Check-outs</a></li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
 
 <ul>
 <li>Matt Stratton <a href="http://github.com/mattstratton">github</a>, <a href="https://twitter.com/mattstratton">twitter</a>, irc: MattStratton, <a href="http://www.mattstratton.com/">blog</a></li>
@@ -34,10 +41,6 @@
 <li>John Sheehan <a href="https://twitter.com/johnsheehan">twitter</a></li>
 </ul>
 
-
-<h2>Invited Panel</h2>
-
-<p>Want to join us for this episode? <a href="&#109;&#97;&#x69;&#108;&#x74;&#111;&#58;&#x73;&#104;&#x6f;&#119;&#x73;&#64;&#97;&#114;&#114;&#101;&#115;&#116;&#x65;&#100;&#x64;&#101;&#118;&#x6f;&#x70;&#115;&#46;&#99;&#x6f;&#x6d;">&#115;&#x68;&#x6f;&#x77;&#115;&#x40;&#x61;&#114;&#x72;&#x65;&#115;&#x74;&#x65;&#100;&#x64;&#x65;&#118;&#111;&#112;&#x73;&#46;&#x63;&#x6f;&#109;</a></p>
 
 <h2>Outline/Questions</h2>
 
@@ -50,11 +53,9 @@
 <li>Who should write unit tests? Is this the kind of thing that needs to be strict?</li>
 <li>How do you make sure you&rsquo;ve got the right coverage?</li>
 <li>What skills/talents do testers/QA people need to work in a DevOps culture?</li>
-<li>&ldquo;SOAP web service testing can be a pain because SoapUI is a pain. Are there better tools out there?&rdquo; &ndash; @mattshelton</li>
+<li>&ldquo;SOAP web service testing can be a pain because SoapUI is a pain. Are there better tools out there?&rdquo; &ndash; <a href="https://twitter.com/mattshelton">@mattshelton</a></li>
 </ul>
 
-
-<p>Suggestions/questions? Submit a PR on our <a href="https://github.com/arresteddevops/podcast/blob/master/scripts/episode-002-testing-in-the-devops-world.md">script page</a> or tweet us at @ArrestedDevops</p>
 
 <h2>Check-Outs<a name="checkouts"></a></h2>
 
@@ -71,8 +72,6 @@
 <p>Follow us on Twitter at <a href="http://twitter.com/arresteddevops">@ArrestedDevOps</a>.</p>
 
 <p>Please feel free to submit show ideas to our <a href="https://github.com/arresteddevops/podcast">github repo</a></p>
-
-<h2>Download</h2>
 ]]></content>
   </entry>
   
