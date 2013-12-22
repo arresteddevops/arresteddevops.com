@@ -20,7 +20,7 @@ Watch Now
 
 {% youtube 88iUXN5cCas %}
 
-{% audio http://podcasts.arresteddevops.com/arrested-devops-podcast-episode001.mp3 %}
+{% audio http://www.podtrac.com/pts/redirect.mp3/podcasts.arresteddevops.com/arrested-devops-podcast-episode001.mp3 %}
 
 
 * [Panel](http://www.arresteddevops.com/2013/12/05/episode-001-what-is-devops/#panel)

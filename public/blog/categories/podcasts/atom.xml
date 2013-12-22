@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcasts | Arrested DevOps]]></title>
   <link href="http://arresteddevops.com//blog/categories/podcasts/atom.xml" rel="self"/>
   <link href="http://arresteddevops.com//"/>
-  <updated>2013-12-20T00:27:17-06:00</updated>
+  <updated>2013-12-21T22:11:01-06:00</updated>
   <id>http://arresteddevops.com//</id>
   <author>
     <name><![CDATA[Arrested DevOps]]></name>
@@ -12,6 +12,110 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 002 - Does Testing Keep You From Making A Huge Mistake?]]></title>
+    <link href="http://arresteddevops.com//2013/12/16/episode-002-does-testing-keeps-you-from-making-a-huge-mistake/"/>
+    <updated>2013-12-16T09:09:00-06:00</updated>
+    <id>http://arresteddevops.com//2013/12/16/episode-002-does-testing-keeps-you-from-making-a-huge-mistake</id>
+    <content type="html"><![CDATA[<h2>Watch Now!</h2>
+
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/uVge4fkjF8w "></iframe></div></p>
+
+<p><p/>
+<center>
+<audio src="<a" preload="none" />
+</center>
+<p/></p>
+
+<ul>
+<li><a href="http://www.arresteddevops.com/2013/12/16/episode-002-does-testing-keeps-you-from-making-a-huge-mistake/#panel">Panel</a></li>
+<li><a href="http://www.arresteddevops.com/2013/12/16/episode-002-does-testing-keeps-you-from-making-a-huge-mistake/#outline">Show Notes</a></li>
+<li><a href="http://www.arresteddevops.com/2013/12/16/episode-002-does-testing-keeps-you-from-making-a-huge-mistake/#checkouts">Check-outs</a></li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Matt Stratton <a href="http://github.com/mattstratton">github</a>, <a href="https://twitter.com/mattstratton">twitter</a>, irc: MattStratton, <a href="http://www.mattstratton.com/">blog</a></li>
+<li>Trevor Hess <a href="https://github.com/trevorghess">github</a>, <a href="http://twitter.com/trevorghess">twitter</a></li>
+<li>Lanette Creamer <a href="http://twitter.com/lanettecream">twitter</a>, <a href="http://blog.testyredhead.com/">blog</a></li>
+<li>Nate Brengle <a href="https://github.com/fyreswordgames">github</a>, <a href="http://www.fyreswordgames.com/">web</a>, currently a Game Designer working in partnership with Stanford to create medical games as well as a QA and Business Analyst for Pathfinder Software. His romance with Quality extends far beyond software and games, with ties to the literary and plastic arts, philosophized psychoanalysis, and functional religion.</li>
+<li>John Sheehan <a href="https://twitter.com/johnsheehan">twitter</a></li>
+</ul>
+
+
+<h2>Summary/Show Notes</h2>
+
+<p>Things get off to a great start during the retro, where Trevor complains about destroying his USB 3.0 drivers due to a Win 8.1 upgrade and Matt turns into a Cylon.</p>
+
+<p><a href="http://kitchen.ci">Test Kitchen</a> is now officially 1.0, but does&rsquo;t really support Windows, but that doesn&rsquo;t stop Matt from wanting to hack it to make it work anyway.</p>
+
+<p>&ldquo;Testing is any action taken to give you information about the actual state of your software, vs your assumptions&rdquo; &ndash; Lanette</p>
+
+<p>&ldquo;A lot of developers look at testing like insurance &ndash; it&rsquo;s not going to prevent a disaster, but it&rsquo;s going to help you mitigate those problems&rdquo; &ndash; John</p>
+
+<p>Spirited discussion about the value of code coverage as a metric, and our panelists mostly violenly agree that it is not a valuable number in a vacuum.</p>
+
+<p>We also discuss that it is possible to approach all of life like a QA tester.</p>
+
+<ul>
+<li><a href="http://www.techsmith.com/jing.html">Jing</a></li>
+<li><a href="http://www.runscope.com">Runscope</a></li>
+</ul>
+
+
+<h2>Check-Outs<a name="checkouts"></a></h2>
+
+<h4>Lanette</h4>
+
+<ul>
+<li>Butler Wars &ndash; Jenkins vs Hudson</li>
+<li>Words with Friends</li>
+<li><a href="https://twitter.com/lanettecream">@lanettecream</a></li>
+</ul>
+
+
+<h4>Nate</h4>
+
+<ul>
+<li><a href="http://jeepen.org/dict/">Jeepform</a></li>
+<li><a href="http://www.perfectomobile.com">Perfecto Mobile</a></li>
+</ul>
+
+
+<h4>John</h4>
+
+<ul>
+<li><a href="http://carcassonneapp.com/">Carcassonne for iOS</a></li>
+<li><a href="http://www.briefmetrics.com">Briefmetrics</a></li>
+<li><a href="http://hookfeed.com/">HookFeed</a></li>
+</ul>
+
+
+<h4>Matt</h4>
+
+<ul>
+<li><a href="https://github.com/pester/Pester">Pester</a> &ndash; BDD framework for PowerShell</li>
+<li><a href="http://www.xcom.com/enemyunknown/">XCOM &ndash; Enemy Within</a></li>
+</ul>
+
+
+<h4>Trevor</h4>
+
+<ul>
+<li><a href="http://jagt.github.io/clumsy/">Clumsy</a></li>
+<li><a href="http://www.daysofwonder.com/tickettoride/en/">Ticket to Ride</a></li>
+<li><a href="http://www.civilization5.com/">Civilization V</a></li>
+</ul>
+
+
+<p>Follow us on Twitter at <a href="http://twitter.com/arresteddevops">@ArrestedDevOps</a>.</p>
+
+<p>Please feel free to submit show ideas to our <a href="https://github.com/arresteddevops/podcast">github repo</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 001 - What Is DevOps?]]></title>

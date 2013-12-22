@@ -4,6 +4,8 @@ title: "Episode 002 - Does Testing Keep You From Making A Huge Mistake?"
 date: 2013-12-16 09:09
 published: true
 comments: true
+filename: arrested-devops-podcast-episode002
+length: 129279863
 categories: 
 - mattstratton
 - trevorghess
@@ -12,6 +14,7 @@ categories:
 - natebrengle
 - testing
 - qa
+- podcasts
 author: Arrested DevOps
 author_site: 
 summary: The first panel discussion for this podcast! We focus on how software testing fits into the DevOps world, and our panelists have a spirited chat about the value (or lack thereof) of code coverage as a metric. And Matt sounds like a Cylon.
@@ -21,7 +24,7 @@ Watch Now!
 -----
 {% youtube uVge4fkjF8w %}
 
-Audio - coming soon!
+{% audio http://www.podtrac.com/pts/redirect.mp3/podcasts.arresteddevops.com/arrested-devops-podcast-episode002.mp3 %}
 
 * [Panel](http://www.arresteddevops.com/2013/12/16/episode-002-does-testing-keeps-you-from-making-a-huge-mistake/#panel)
 * [Show Notes](http://www.arresteddevops.com/2013/12/16/episode-002-does-testing-keeps-you-from-making-a-huge-mistake/#outline)
@@ -51,6 +54,9 @@ Spirited discussion about the value of code coverage as a metric, and our paneli
 
 We also discuss that it is possible to approach all of life like a QA tester.
 
+* [Jing](http://www.techsmith.com/jing.html)
+* [Runscope](http://www.runscope.com)
+
 
 Check-Outs<a name="checkouts"></a>
 -----
@@ -58,10 +64,13 @@ Check-Outs<a name="checkouts"></a>
 #### Lanette
 
 * Butler Wars - Jenkins vs Hudson
+* Words with Friends
+* [@lanettecream](https://twitter.com/lanettecream)
 
 #### Nate
 
 * [Jeepform](http://jeepen.org/dict/)
+* [Perfecto Mobile](http://www.perfectomobile.com)
 
 #### John
 
