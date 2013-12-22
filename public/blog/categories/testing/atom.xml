@@ -4,7 +4,7 @@
   <title><![CDATA[Category: testing | Arrested DevOps]]></title>
   <link href="http://arresteddevops.com//blog/categories/testing/atom.xml" rel="self"/>
   <link href="http://arresteddevops.com//"/>
-  <updated>2013-12-21T22:11:01-06:00</updated>
+  <updated>2013-12-21T22:13:26-06:00</updated>
   <id>http://arresteddevops.com//</id>
   <author>
     <name><![CDATA[Arrested DevOps]]></name>
@@ -48,20 +48,17 @@
 
 <h2>Summary/Show Notes</h2>
 
-<p>Things get off to a great start during the retro, where Trevor complains about destroying his USB 3.0 drivers due to a Win 8.1 upgrade and Matt turns into a Cylon.</p>
-
-<p><a href="http://kitchen.ci">Test Kitchen</a> is now officially 1.0, but does&rsquo;t really support Windows, but that doesn&rsquo;t stop Matt from wanting to hack it to make it work anyway.</p>
-
-<p>&ldquo;Testing is any action taken to give you information about the actual state of your software, vs your assumptions&rdquo; &ndash; Lanette</p>
-
-<p>&ldquo;A lot of developers look at testing like insurance &ndash; it&rsquo;s not going to prevent a disaster, but it&rsquo;s going to help you mitigate those problems&rdquo; &ndash; John</p>
-
-<p>Spirited discussion about the value of code coverage as a metric, and our panelists mostly violenly agree that it is not a valuable number in a vacuum.</p>
-
-<p>We also discuss that it is possible to approach all of life like a QA tester.</p>
+<p>Initial thought based on this comment from Lanette:
+&ldquo;I&rsquo;d love to share with dev ops folks &amp; Devs WHY they should care about testing. Basically, it will free them up to better fix a bug once and for good, and it will also mean fewer bugs for them to worry about.&rdquo;</p>
 
 <ul>
-<li><a href="http://www.techsmith.com/jing.html">Jing</a></li>
+<li>In your opinion, how do you define testing? What&rsquo;s a unit test vs. functional vs. nonfunctional testing?</li>
+<li>So it&rsquo;s Dev and Ops&hellip;where does QA fit? Why not DevQAOps?</li>
+<li>Who should write unit tests? Is this the kind of thing that needs to be strict?</li>
+<li>How do you make sure you&rsquo;ve got the right coverage?</li>
+<li>What skills/talents do testers/QA people need to work in a DevOps culture?</li>
+<li><p>&ldquo;SOAP web service testing can be a pain because SoapUI is a pain. Are there better tools out there?&rdquo; &ndash; <a href="https://twitter.com/mattshelton">@mattshelton</a></p></li>
+<li><p><a href="http://www.techsmith.com/jing.html">Jing</a></p></li>
 <li><a href="http://www.runscope.com">Runscope</a></li>
 </ul>
 
