@@ -21,7 +21,12 @@ Watch Now!
 -----
 {% youtube uVge4fkjF8w %}
 
+Listen now!
+----
+
 {% audio http://www.podtrac.com/pts/redirect.mp3/podcasts.arresteddevops.com/arrested-devops-podcast-episode002.mp3 %}
+
+[Subscribe in iTunes](https://itunes.apple.com/us/podcast/arrested-devops/id773888088?mt=2)
 
 * [Panel](http://www.arresteddevops.com/2013/12/16/episode-002-does-testing-keeps-you-from-making-a-huge-mistake/#panel)
 * [Show Notes](http://www.arresteddevops.com/2013/12/16/episode-002-does-testing-keeps-you-from-making-a-huge-mistake/#outline)
